@@ -11,7 +11,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE: ghcr.io/Realex78/tec-actions-test
+  IMAGE: ghcr.io/realex78/tec-actions-test
 
 jobs:
 

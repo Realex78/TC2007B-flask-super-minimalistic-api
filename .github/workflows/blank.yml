@@ -19,7 +19,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE: ghcr.io/Realex78/tec-action
+  IMAGE: ghcr.io/realex78/tec-action
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
